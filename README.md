@@ -13,6 +13,6 @@ This is a collection of projects I have worked on.
 
 ## Author
 
-- Linkedin - [Tamara Carlos](https://www.linkedin.com/in/tamaracarlos/)
+- Linkedin - [Meg Hermes](https://www.linkedin.com/in/meghermes/)
 
 <hr>
