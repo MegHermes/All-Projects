@@ -38,6 +38,7 @@ I have included a temperature converter written in C++.
 ## Author
 
 - Linkedin - [Meg Hermes](https://www.linkedin.com/in/meghermes/)
+- [Resume](https://github.com/MegHermes/Resume/blob/main/Megane_Hermes.pdf)
 
 <hr>
 
