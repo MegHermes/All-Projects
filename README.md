@@ -1,7 +1,7 @@
 # Projects
 
 
-This is a collection of projects I have worked on that are HTML, CSS, SASS, etc. 
+This is a collection of projects I have worked on that are HTML, CSS, SASS, etc. <br>
 **The LIVE link will take you to the website.**
 
 | Websites  | Tags | Code | Live |
